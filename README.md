@@ -38,7 +38,7 @@ Before running this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rayen0001/node-todos.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -67,6 +67,6 @@ The server will start on <http://localhost:3000>
 ## Swagger Documentation
 This API provides interactive documentation using Swagger UI . You can access it at:
 ```bash
-http://localhost:3000/api-docs
+<http://localhost:3000/api-docs>
 ```
 Here, you can explore the API endpoints, view request/response schemas, and test the API directly from your browser.
