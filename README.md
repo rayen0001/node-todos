@@ -54,6 +54,8 @@ Before running this project, ensure you have the following installed:
     ```
 The server will start on <http://localhost:3000>
 
+---
+
 ## Endpoints
 
 |Method|Endpoint|Description|
@@ -63,6 +65,8 @@ The server will start on <http://localhost:3000>
 |GET|</api/todos/{id}>|Get a specific todo by ID
 |PUT|</api/todos/edit/{id}>|Update a specific todo by ID
 |DELETE|</api/todos/delete/{id}>|Delete a specific todo by ID
+
+---
 
 ## Swagger Documentation
 This API provides interactive documentation using Swagger UI . You can access it at:
