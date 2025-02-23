@@ -67,6 +67,6 @@ The server will start on <http://localhost:3000>
 ## Swagger Documentation
 This API provides interactive documentation using Swagger UI . You can access it at:
 ```bash
-<http://localhost:3000/api-docs>
+http://localhost:3000/api-docs
 ```
 Here, you can explore the API endpoints, view request/response schemas, and test the API directly from your browser.
